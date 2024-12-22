@@ -13,3 +13,6 @@ Detects authorization vulnerabilities in web applications.
 
 ### 4. [Reflected Parameters](https://github.com/portswigger/reflected-parameters)
 Identifies reflected parameters in HTTP responses.
+
+
+https://github.com/PortSwigger/js-link-finder/tree/master
